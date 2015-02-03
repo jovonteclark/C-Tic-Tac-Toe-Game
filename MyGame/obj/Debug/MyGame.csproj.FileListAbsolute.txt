@@ -1,0 +1,9 @@
+C:\Users\Jovonte\Documents\MyGame\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\Jovonte\Documents\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\Jovonte\Documents\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Jovonte\Documents\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\Jovonte\Documents\MyGame\MyGame\obj\Debug\MyGame.Form1.resources
+C:\Users\Jovonte\Documents\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\Jovonte\Documents\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+C:\Users\Jovonte\Documents\MyGame\MyGame\obj\Debug\MyGame.exe
+C:\Users\Jovonte\Documents\MyGame\MyGame\obj\Debug\MyGame.pdb
